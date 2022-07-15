@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94771136817']
-global.premium = ['94771136817']
-global.ownernomer = '94771136817'
+global.owner = ['94781704784']
+global.premium = ['94781704784']
+global.ownernomer = '94781704784'
 global.ownername = '𝐑𝐞𝐬𝐚𝐧𝐝𝐮'
 global.botname = '𝐑𝐞𝐬𝐚𝐧𝐝𝐮 𝐁𝐨𝐭'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.footer = ' Resandu Bot🤭.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/C5WxfAIhgmF7tsJh8HqMDz'
